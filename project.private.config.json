@@ -11,7 +11,14 @@
       "list": []
     },
     "miniprogram": {
-      "list": []
+      "list": [
+        {
+          "name": "pages/join/join",
+          "pathName": "pages/join/join",
+          "query": "",
+          "scene": null
+        }
+      ]
     }
   }
 }
